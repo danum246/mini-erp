@@ -93,7 +93,7 @@ var Script = function () {
     });
 
     var setColor = function (color) {
-        $('#style_color').attr("href", "css/style-" + color + ".css");
+        $('#style_color').attr("href", "assets/css/style-" + color + ".css");
     }
 
 // widget tools
